@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class FBStreamViewController: UIViewController {
 
     //MARK: - Lifecycles
     override func viewDidLoad() {
